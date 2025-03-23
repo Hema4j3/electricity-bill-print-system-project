@@ -7,10 +7,20 @@ This is a Python-based Electricity Billing System developed in VS Code. It calcu
 **Features**
 
 ✅ Calculate electricity bill based on unit consumption
+
+
 ✅ Print bill functionality
+
+
 ✅ Refresh and update bill details
+
+
 ✅ Delete and clear table functions
+
+
 ✅ Input validation (prevents negative and non-numeric entries)
+
+
 ✅ User-friendly interface
 
 **Installation & Setup**
