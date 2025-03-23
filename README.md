@@ -83,6 +83,10 @@ Displays meaningful error messages for invalid inputs.
 **Future Improvements**
 
 🔹 Add admin/user login system
+
+
 🔹 Implement database storage for bill records
+
+
 🔹 Include export to PDF/CSV functionality
 
