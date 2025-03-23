@@ -4,7 +4,7 @@ Project Description
 
 This is a Python-based Electricity Billing System developed in VS Code. It calculates electricity bills based on unit consumption and includes features like bill printing, refreshing, updating, deleting, and clearing table data. The system also implements proper error handling and validation for incorrect inputs.
 
-Features
+**Features**
 
 ✅ Calculate electricity bill based on unit consumption
 ✅ Print bill functionality
@@ -13,9 +13,9 @@ Features
 ✅ Input validation (prevents negative and non-numeric entries)
 ✅ User-friendly interface
 
-Installation & Setup
+**Installation & Setup**
 
-Prerequisites
+__PREREQUIREMENTS__
 
 Make sure you have the following installed on your system:
 
@@ -26,7 +26,7 @@ VS Code (or any other Python-compatible IDE)
 Required Python libraries: tkinter (for GUI), sqlite3 (if using a database)
 
 
-Steps to Run the Project
+**Steps to Run the Project**
 
 1. Clone this repository:
 
@@ -49,7 +49,7 @@ python main.py
 
 
 
-Usage Instructions
+__Usage Instructions__
 
 1. Enter the number of electricity units consumed.
 
@@ -73,14 +73,14 @@ Usage Instructions
 
 
 
-Error Handling & Validation
+__Error Handling & Validation__
 
 Prevents negative and non-numeric values from being entered.
 
 Displays meaningful error messages for invalid inputs.
 
 
-Future Improvements
+**Future Improvements**
 
 🔹 Add admin/user login system
 🔹 Implement database storage for bill records
